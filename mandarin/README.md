@@ -131,7 +131,7 @@
 | cat             |  māo         |     猫                          |
 | dog             |  gǒu         |     狗                          |
 | horse           |  mǎ          |     马                          |
-| hippopatamus    |  hémǎ        |   河马                          |
+| hippopotamus    |  hémǎ        |   河马                          |
 | pig             |  zhū         |     猪                          |
 | spider          |  zhīzhū      |   蜘蛛                          |
 | octopus         |  zhāngyú     |   章鱼                          |
