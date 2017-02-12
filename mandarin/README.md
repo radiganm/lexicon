@@ -136,4 +136,15 @@
 | spider          |  zhīzhū      |   蜘蛛                          |
 | octopus         |  zhāngyú     |   章鱼                          |
 
+## Devices
+
+|English          | Hànyǔ Pīnyīn | 简化字                          |
+|----------------:|:-------------|--------------------------------:|
+| electricity     |  diànlì      |     电力                        |
+| brain           |  nǎo         |       脑                        |
+| computer        |  diànnǎo     |     电脑                        |
+| television      |  diànshì     |     电视                        |
+| radio           |  wúxiàndiàn  | 无线电                          |
+| electric fan    |  diànshàn    |     电扇                        |
+
 
