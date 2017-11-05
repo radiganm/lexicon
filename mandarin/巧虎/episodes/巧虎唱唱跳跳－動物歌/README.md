@@ -13,9 +13,9 @@ Zhè shì shénme dòngwù ne?
 What is this animal?
 
 
-袋鼠 跳 跳 跳.
+袋鼠 跳， 跳， 跳.
 
-Dàishǔ tiào tiào tiào.
+Dàishǔ tiào, tiào, tiào.
 
 Kagaroo jump, jump, jump.
 
