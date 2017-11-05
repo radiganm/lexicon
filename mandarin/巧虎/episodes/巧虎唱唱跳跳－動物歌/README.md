@@ -7,16 +7,23 @@
 ## 歌词 Gēcí
 
 这 是 什么 动物 呢？
+
 Zhè shì shénme dòngwù ne?
+
 What is this animal?
 
 
 袋鼠 跳 跳 跳.
+
 Dàishǔ tiào tiào tiào.
+
 Kagaroo jump, jump, jump.
 
+
 鳄鱼 大嘴巴, 大嘴巴.
+
 Èyú dà zuǐbā, dà zuǐbā.
+
 Alligator big mouth, big mouth.
 
 
