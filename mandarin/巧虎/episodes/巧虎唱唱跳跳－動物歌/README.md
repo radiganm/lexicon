@@ -6,6 +6,7 @@
 
 ## 歌词 Gēcí
 
+
 这 是 什么 动物 呢？
 
 Zhè shì shénme dòngwù ne?
@@ -25,5 +26,12 @@ Kagaroo jump, jump, jump.
 Èyú dà zuǐbā, dà zuǐbā.
 
 Alligator big mouth, big mouth.
+
+
+金剛猩猩
+
+Jīngāng xīngxīng
+
+King kong ape
 
 
