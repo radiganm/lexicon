@@ -7,8 +7,8 @@
 
 ## 大 电 毛毛虫 dà diàn máomáochóng (big electric caterpillar)
 
-[![大 电 毛毛虫](http://img.youtube.com/vi/qSz3r-3XGa4/0.jpg)](http://www.youtube.com/watch?v=qSz3r-3XGa4 "巧虎 大 电 毛毛虫 dà diàn máomáochóng (big electric caterpillar)
+[![大 电 毛毛虫](http://img.youtube.com/vi/qSz3r-3XGa4/0.jpg)](http://www.youtube.com/watch?v=qSz3r-3XGa4 "巧虎 大 电 毛毛虫 dà diàn máomáochóng (big electric caterpillar")
 
-[![大 电 毛毛虫](http://img.youtube.com/vi/iYEKD1Befg8/0.jpg)](http://www.youtube.com/watch?v=iYEKD1Befg8 "巧虎 大 电 毛毛虫 dà diàn máomáochóng (big electric caterpillar)
+[![大 电 毛毛虫](http://img.youtube.com/vi/iYEKD1Befg8/0.jpg)](http://www.youtube.com/watch?v=iYEKD1Befg8 "巧虎 大 电 毛毛虫 dà diàn máomáochóng (big electric caterpillar")
 
 
